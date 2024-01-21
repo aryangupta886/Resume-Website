@@ -1,0 +1,10 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.app-component-image {
+  width: 200px;
+  object-fit: cover;
+}
